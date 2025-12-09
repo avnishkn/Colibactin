@@ -47,7 +47,7 @@ Colibactin/
 
 ## Usage
 
-Run `early_coad_read.ipynb` cells sequentially. Note: The notebook extracts COSMIC signatures from `COSMIC_catalogue-signatures_SBS96_v3.4.zip`. If the zip file is not present, download it from [COSMIC](https://cancer.sanger.ac.uk/signatures/) and place it in the project root. The extracted `cosmic_sbs_v3.4/` folder contains the required signature files.
+Run `early_coad_read.ipynb` cells sequentially. Note: The notebook extracts COSMIC signatures from `COSMIC_catalogue-signatures_SBS96_v3.4.zip` which can be downloaded from [COSMIC](https://cancer.sanger.ac.uk/signatures/) and placed in the project root. The extracted `cosmic_sbs_v3.4/` folder contains the required signature files.
 
 ## References
 
